@@ -1,0 +1,6 @@
+# RESOURCES FOLDER
+/resources/
+
+# MISC
+.DS_Store
+*.txt
